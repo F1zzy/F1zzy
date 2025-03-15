@@ -45,6 +45,6 @@ Other Skills: Agile/SCRUM, Debugging, Unit Testing, Problem-Solving
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1zzy&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1zzy&layout=compact&theme=nord)
 
 ---
